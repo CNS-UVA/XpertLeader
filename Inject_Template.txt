@@ -1,16 +1,17 @@
 CAPISSEN INDUSTRIES LLC INC
 
-Memo
+Inject #0: Letterhead
 
 To:		Recipient Name
-From:		Emil Baggs
+From:		Team x
 Date:		April 28, 2023
 Subject:	Write subject here
 
+---------------------------------------------------------------------------------------------------------------------
 
-Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here.
+Dear Recipient Name, 
 
-Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here.
+Write memo text here. 
 
-Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here. Write memo text here.
-
+Sincerely, 
+Team x
