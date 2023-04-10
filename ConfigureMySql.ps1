@@ -7,7 +7,6 @@ function Configure-MySQL {
     $MySqlIniPath = "$mySqlPath\my.ini",
     $MySqlDataPath = "$mySqlPath\data",
     $MySqlServiceName = "MySQL81",
-    $MySqlRootPassword = "Chiapet1"
   )
 
   Set-ExecutionPolicy Bypass -Scope Process -Force; 
