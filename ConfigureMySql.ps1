@@ -44,11 +44,11 @@ datadir=$($mySqlDataPath.Replace("\","\\"))
   sc.exe config $mySqlServiceName start=auto
 
   Write-Host "Setting root password..."
-  cmd /c  "`"$mySqlPath\bin\mysql`" -u root --skip-password -e `"CREATE USER 'root'@'%' identified by '$mySqlRootPassword';`""
+  cmd /c  "`"$mySqlPath\bin\mysql`" -u root --skip-password -e `"CREATE USER 'root'@'%' identified by 'Chiapet1';`""
   cmd /c  "`"$mySqlPath\bin\mysql`" -u root --skip-password -e `"GRANT ALL ON *.* to 'root'@'%';`""
   
   
-  cmd /c "`"$mySqlPath\bin\mysql`" -u root --skip-password -e `"ALTER USER 'root'@'localhost' IDENTIFIED BY '$mySqlRootPassword';`""
+  cmd /c "`"$mySqlPath\bin\mysql`" -u root --skip-password -e `"ALTER USER 'root'@'localhost' IDENTIFIED BY 'Chiapet1';`""
   
   Restart-Service $mySqlServiceName
   Write-Host "Verifying connection..."
